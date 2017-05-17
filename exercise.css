@@ -1,0 +1,19 @@
+.notimportant {
+	color: blue;
+}
+
+.important {
+	color: red;
+}
+
+#log {
+	color: red;
+}
+
+#p1 {
+	background-color: purple;
+}
+
+#p2 {
+	background-color: coral;
+}
